@@ -1,0 +1,48 @@
+Dennis Ritchie
+American
+Created the C programming language
+
+Linus Torvalds
+American
+Developer of the Linux kernel
+
+Bjarne Stroustrup
+Danish
+Created the C++ programming language
+
+Tim Berners-Lee
+British
+Created the World Wide Web
+
+Brian Kernighan
+Canadian
+Co-creator and developer of Unix
+
+Donald Knuth
+American
+Contributed to the development of rigorous analysis of the computational complexity of 
+algorithms
+
+Ken Thompson
+American
+Invented the B programming language
+
+Guido van Rossum
+Dutch
+Created the Python programming language
+
+James Gosling
+Canadian
+Created the Java programming language
+
+Bill Gates
+American
+Co-founder of Microsoft
+
+Niklaus Wirth
+Swiss
+Designed many programing languages, including Pascal, Euler, Algol W, and others.
+
+Ada Lovelace
+English
+Created the very first algorithm created solely for the intent of being processed by a machine.
